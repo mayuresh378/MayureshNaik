@@ -1,5 +1,5 @@
 <h1 align="center">Hello Connections 👋, I'm <span style="color:#00BFFF">MayureshNaik</span></h1>
-<h3 align="center">🚀 Data Science | AI and ML </h3>
+<h3 align="center">🚀 Data Science | AI and ML | Web Devloper</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Transforming+data+into+insights.;Engineering+AI-powered+solutions.;Solving+real-world+problems+with+ML." alt="Typing SVG" />
