@@ -76,3 +76,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jituchoudhary367&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jituchoudhary367&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
+---
+
+## ✨ Quote
+
+> "Eat.Sleep.Compile.Repeat"
