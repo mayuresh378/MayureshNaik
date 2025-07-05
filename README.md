@@ -55,6 +55,8 @@
 
 ## 🎓 College & DSA Journey
 
+🎓 Computer Science student on a mission to turn logic into impact.
+🧠 Currently sharpening my skills with DSA and real-world problem solving.
 🎓 Third-year B.Tech student, actively applying AI and ML in academic and independent projects  
 🧠 Skilled in *algorithms, **time complexity, **greedy, **recursion, **DP, and **graph-based problem solving*
 
