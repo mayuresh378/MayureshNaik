@@ -62,9 +62,9 @@
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="mayureshnaik279@gmail.com"><img src="https://img.shields.io/badge/email-@jituchoudharyat-blue?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mayureshnaik279@gmail.com"><img src="https://img.shields.io/badge/email-mayureshnaik279-blue?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mayuresh-naik-092445287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/linkedin-Profile-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/mayuresh378/MayureshNaik"><img src="https://img.shields.io/github/followers/jituchoudhary367?label=Follow&style=social" /></a>
+  <a href="https://github.com/mayuresh378/MayureshNaik"><img src="https://img.shields.io/github/followers/Mayuresh Naik?label=Follow&style=social" /></a>
 </p>
 
 ---
