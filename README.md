@@ -15,7 +15,8 @@
 💻 Solid foundation in *C, **Python, and **Java*  
 🧠 Strong *problem-solving mindset, honed through hundreds of **DSA problems* and *real-world challenges*  
 🛠 Constant learner of emerging tools, best practices, and scalable engineering  
-🎖National Level Carrom Gold Medalist
+🥇 National Gold Medalist in Carrom — a game that has taught me patience, strategy, and precision, values I carry into my work as a developer.
+
 
 ---
 
