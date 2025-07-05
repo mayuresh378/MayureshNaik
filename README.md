@@ -48,14 +48,6 @@
 
 ---
 
-## 📜 Certifications
-
-- 📘 **AI & ML Specialization** – Coursera (DeepLearning.ai)
-- 💻 **Python for Everybody** – University of Michigan
-- 🧠 **Data Science with Python** – NPTEL / Parul University
-
----
-
 ## 📈 Currently Learning
 
 - 🚀 Deep Learning: CNNs & Transformers  
