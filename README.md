@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF">MayureshNaik</span></h1>
+<h1 align="center">Hello Connections 👋, I'm <span style="color:#00BFFF">MayureshNaik</span></h1>
 <h3 align="center">🚀 Data Science | AI and ML </h3>
 
 <p align="center">
